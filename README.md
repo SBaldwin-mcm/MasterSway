@@ -8,7 +8,7 @@
 - 🔐 Also working toward my **CompTIA cybersecurity certification** to dive deeper into infosec and secure development.
 
 ## 📫 How to Reach Me
-- 📧 Email: **shannonbal01@.com**
+- 📧 Email: **shannonbal01@gmail.com**
 - 💬 Discord: **.obiwaniscool**
 
 <!---
