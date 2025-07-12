@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @MasterSway
-- 👀 I’m interested in gaming, coding, PC building, sports, working out, and cars.
-- 🌱 I’m currently learning HTML, CSS, and C in school. And working on learnig Python in my free time. 
-- 💞️ I’m looking to collaborate on any types of projects to help my coding skills.
-- 📫 How to reach me: mastersway3@gmail.com or through Discord: .obiwaniscool 
+# 👋 Hey there, I’m @MasterSway
+
+## 🎮 About Me
+- 🎓 I recently graduated with a **B.A. in Computer Science** from **McMurry University**.
+- 🧠 I’m passionate about **gaming**, **coding**, **PC building**, **sports**, **working out**, and **cars**.
+- 💻 Currently sharpening my skills in **Python**, and continuing to build on my experience with **HTML**, **CSS**, and **C**.
+- 🤝 I’m open to **collaborating on any coding or tech-related projects** to grow as a developer.
+- 🔐 Also working toward my **CompTIA cybersecurity certification** to dive deeper into infosec and secure development.
+
+## 📫 How to Reach Me
+- 📧 Email: **mastersway3@gmail.com**
+- 💬 Discord: **.obiwaniscool**
 
 <!---
 MasterSway/MasterSway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
